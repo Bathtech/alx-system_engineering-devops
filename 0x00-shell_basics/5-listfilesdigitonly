@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "-rwxr--r-- 1 kali kali    16 Mar 30 17:56 0-current_working_directory"
+ls lna
